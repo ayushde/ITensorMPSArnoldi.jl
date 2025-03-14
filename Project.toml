@@ -1,4 +1,4 @@
-name = "ITensorMPSArnoldi.jl"
+name = "ITensorMPSArnoldi"
 uuid = "952d4476-7150-4fac-8c7a-e03297898276"
 authors = ["Matthew Fishman <mfishman@flatironinstitute.org>", "Miles Stoudenmire <mstoudenmire@flatironinstitute.org>",
   "Ayush De <ayush.de@mail.huji.ac.il>"]
