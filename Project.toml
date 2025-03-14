@@ -1,6 +1,7 @@
 name = "ITensorMPSArnoldi.jl"
-uuid = "0d1a4710-d33b-49a5-8f18-73bdf49b47e2"
-authors = ["Matthew Fishman <mfishman@flatironinstitute.org>", "Miles Stoudenmire <mstoudenmire@flatironinstitute.org>"]
+uuid = "952d4476-7150-4fac-8c7a-e03297898276"
+authors = ["Matthew Fishman <mfishman@flatironinstitute.org>", "Miles Stoudenmire <mstoudenmire@flatironinstitute.org>",
+  "Ayush De <ayush.de@mail.huji.ac.il>"]
 version = "0.3.8"
 
 [deps]
