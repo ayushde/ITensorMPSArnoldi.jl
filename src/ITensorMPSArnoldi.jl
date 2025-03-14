@@ -1,4 +1,4 @@
-module ITensorMPS
+module ITensorMPSArnoldi
 using ITensors
 include("imports.jl")
 include("exports.jl")
